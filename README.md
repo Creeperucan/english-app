@@ -1,2 +1,16 @@
-# english-app
-Bu sistem inglizceyi, en azından kelimeleri ezber yaparak ama akılda kalıcı şekilde öğrenmenize yarar.
+# İngilizce - Türkçe Öğrenme Uygulaması
+Bu uygulama şuanlık 4 adet moda sahiptir. Mevsimler, günler, sayılar (şuanlık 0-100) ve en çok kullanılan kelimeler (şuanlık 1000) vardır. 1000 kelime Open English formunda kısaca [burada](https://www.openenglish.com.tr/blog/ingilizcede-en-cok-kullanilan-1000-kelime/) mevcuttur. %0 olan skorlar sayılmamaktadır ve kelimeler tamamen düzenlenebilmektedir. Ayrıca Türkçe -> İngilizce ve İngilizce -> Türkçe sistemi mevcuttur. Uygulama tamamen karanlık moddur, aydınlık tema mevcut değildir.
+
+# Kurulum
+1. [Node JS](https://nodejs.org/) kurulumunu yapın.
+2. english-app adlı klosöre girin ve SHIFT+SAĞ TIK yapın.
+3. "Terminalde Aç"a tıklayın ve `npm run dev` komutunu kullanın.
+4. Konsolda gözüken `http://localhost` ile başlayan bir site verince giriş yapabilirsiniz.
+
+<img width="1736" height="968" alt="image" src="https://github.com/user-attachments/assets/94d9817c-cd8a-4092-a801-583b7bdd0bee" />
+
+## Yakındaki Güncellemeler
+1. JSON ekleme sistemi.
+2. Skor sıfırlama.
+3. Sayıları sayı olarak yazabilme.
+4. Kayıtları sıfırlama.
