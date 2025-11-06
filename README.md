@@ -3,9 +3,10 @@ Bu uygulama şuanlık 4 adet moda sahiptir. Mevsimler, günler, sayılar (şuanl
 
 # Kurulum
 1. [Node JS](https://nodejs.org/) kurulumunu yapın.
-2. english-app adlı klosöre girin ve SHIFT+SAĞ TIK yapın.
-3. "Terminalde Aç"a tıklayın ve `npm run dev` komutunu kullanın.
-4. Konsolda gözüken `http://localhost` ile başlayan bir site verince giriş yapabilirsiniz.
+3. english-app adlı klosöre girin ve SHIFT+SAĞ TIK yapın.
+4. "Terminalde Aç"a tıklayın ve `npm install` komutunu kullanın.
+5. Ardından `npm install lucide-react`, `npm run dev` komutlarını sırasıyla kullanın.
+6. Konsolda gözüken `http://localhost` ile başlayan bir site verince giriş yapabilirsiniz.
 
 <img width="1736" height="968" alt="image" src="https://github.com/user-attachments/assets/94d9817c-cd8a-4092-a801-583b7bdd0bee" />
 
